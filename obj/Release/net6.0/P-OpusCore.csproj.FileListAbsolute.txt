@@ -1,0 +1,13 @@
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\obj\Release\net6.0\P-OpusCore.csproj.AssemblyReference.cache
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\obj\Release\net6.0\P-OpusCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\obj\Release\net6.0\P-OpusCore.AssemblyInfoInputs.cache
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\obj\Release\net6.0\P-OpusCore.AssemblyInfo.cs
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\obj\Release\net6.0\P-OpusCore.csproj.CoreCompileInputs.cache
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\bin\Release\net6.0\libopus.dll
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\bin\Release\net6.0\P-OpusCore.deps.json
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\bin\Release\net6.0\P-OpusCore.dll
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\bin\Release\net6.0\P-OpusCore.pdb
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\obj\Release\net6.0\P-OpusCore.dll
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\obj\Release\net6.0\refint\P-OpusCore.dll
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\obj\Release\net6.0\P-OpusCore.pdb
+C:\Users\olive\Documents\Programming\CS\P-OpusCore\obj\Release\net6.0\ref\P-OpusCore.dll
