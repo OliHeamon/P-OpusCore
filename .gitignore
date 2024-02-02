@@ -1,6 +1,6 @@
-[bB]in/
-[oO]bj/
-[pP]ackages/
+bin/
+obj/
+packages/
 AppPackages/
 TestResults/
 TestResult.xml
